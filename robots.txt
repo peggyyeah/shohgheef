@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://umuneewier.xmdg.cz/sitemap.xml
